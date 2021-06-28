@@ -44,10 +44,11 @@ yarn-debug.log*
 /config/master.key
 
 /log/*
-!/log/.keep
+/log/.keep
 
 /public/assets
 
 /storage/*
 !/storage/.keep
 
+/*/*/.keep
